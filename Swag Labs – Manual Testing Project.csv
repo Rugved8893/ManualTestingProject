@@ -1,0 +1,18 @@
+Module,Test Cases
+Login,10
+Products,14
+Cart,12
+Checkout,14
+Menu / Navigation,7
+Total,57
+,
+,
+Test Execution Summary,Count
+Total Test Cases,57
+Passed,55
+Failed,2
+Blocked,0
+Not Executed,0
+Pass Percentage,96.49%
+Fail Percentage,3.51%
+,
