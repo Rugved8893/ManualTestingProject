@@ -44,13 +44,13 @@ The following modules were tested:
 
 | Metric           | Result |
 | ---------------- | -----: |
-| Total Test Cases |     58 |
-| Passed           |     56 |
+| Total Test Cases |     57 |
+| Passed           |     55 |
 | Failed           |      2 |
 | Blocked          |      0 |
 | Not Executed     |      0 |
-| Pass Percentage  | 96.55% |
-| Fail Percentage  |  3.45% |
+| Pass Percentage  | 96.49% |
+| Fail Percentage  |  3.41% |
 
 ## 🐞 Defects Identified
 
